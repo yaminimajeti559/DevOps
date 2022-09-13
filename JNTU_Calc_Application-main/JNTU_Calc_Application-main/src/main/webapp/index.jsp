@@ -13,10 +13,10 @@
 
 		<br />
 		<br /> <select name="operations">
-			<option value="add" selected="selected">Add</option>
-			<option value="sub">Sub</option>
-			<option value="mul">Mul</option>
-			<option value="div">Div</option>
+			<option value="add" selected="selected">ADD</option>
+			<option value="sub">SUB</option>
+			<option value="mul">MUL</option>
+			<option value="div">DIV</option>
 		</select> <br> <input type="submit" value="Go">
 	</form>
 </body>
